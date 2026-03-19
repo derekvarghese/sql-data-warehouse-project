@@ -88,4 +88,16 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Derek**
+Hi there! I'm **Derek Varghese** - an Azure Data Engineer with a strong interest in data engineering, analytics, and building scalable data solutions.
+
+This project marks my first end-to-end implementation of a Data Warehouse, where I explored concepts like data ingestion, transformation, and dimensional modeling using the Medallion Architecture (Bronze, Silver, Gold).
+
+Through this project, I gained hands-on experience in:
+* Writing efficient SQL queries
+* Handling real-world data quality issues
+* Implementing Slowly Changing Dimensions (SCD)
+* Designing fact and dimension tables
+
+I'm continuously learning and looking to deepen my expertise in data engineering tools and cloud technologies.
+
+Feel free to explore the project and connect with me!
