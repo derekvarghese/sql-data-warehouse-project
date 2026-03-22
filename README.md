@@ -59,12 +59,11 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniques and methods of ETL
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── ETL.drawio                      # Draw.io file shows all different techniques and methods of ETL
+│   ├── Architectural_Diagram.drawio    # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── Data Flow Diagram.drawio                # Draw.io file for the data flow diagram
+│   ├── Medallion Data Model.drawio              # Draw.io file for data models (star schema)
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
@@ -99,3 +98,5 @@ Through this project, I gained hands-on experience in:
 I'm continuously learning and looking to deepen my expertise in data engineering tools and cloud technologies.
 
 Feel free to explore the project and connect with me!
+- 💼 LinkedIn: [Derek Varghese](https://www.linkedin.com/in/derek-varghese-8820b620a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 Email: derekvarghese@gmail.com
