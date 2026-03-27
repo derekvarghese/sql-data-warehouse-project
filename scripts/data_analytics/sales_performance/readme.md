@@ -17,9 +17,7 @@ Analyze how sales performance evolves over time by tracking key business metrics
 
 ### 📊 Tableau Visualization
 
-> *(Add your Tableau screenshot below)*
-
-![Sales Performance Dashboard](../docs/your-image-name.png)
+![Sales Performance Dashboard](../docs/sales_performance_over_time.png)
 
 ---
 
