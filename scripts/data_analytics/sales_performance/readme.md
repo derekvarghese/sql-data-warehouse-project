@@ -45,15 +45,3 @@ This analysis helps stakeholders to:
 
 * Table: `gold.fact_sales`
 * Layer: Gold (Analytics-ready data)
-
----
-
-### 🚀 Next Steps
-
-* Build a **time-series dashboard in Tableau**
-* Add filters for:
-
-  * Year
-  * Product Category
-  * Customer Segments
-* Compare **YoY (Year-over-Year) performance**
